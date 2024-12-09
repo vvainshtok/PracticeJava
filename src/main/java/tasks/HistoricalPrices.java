@@ -18,7 +18,7 @@ public class HistoricalPrices {
 
         for (int i = 0; i < testArray.length; i++) {
             System.out.println("Array --> " + Arrays.toString(testArray[i])
-                    + " ; result = " + solution(testArray[i]));
+                    + " ; Result --> " + solution(testArray[i]));
         }
     }
 
